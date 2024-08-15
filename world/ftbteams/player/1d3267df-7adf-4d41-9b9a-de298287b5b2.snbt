@@ -1,0 +1,17 @@
+{
+	id: "1d3267df-7adf-4d41-9b9a-de298287b5b2"
+	type: "player"
+	player_name: "LittleNinjaK"
+	ranks: {
+		1d3267df-7adf-4d41-9b9a-de298287b5b2: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "LittleNinjaK"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFC659"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

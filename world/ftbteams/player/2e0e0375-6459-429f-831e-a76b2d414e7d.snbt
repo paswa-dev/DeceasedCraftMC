@@ -1,0 +1,17 @@
+{
+	id: "2e0e0375-6459-429f-831e-a76b2d414e7d"
+	type: "player"
+	player_name: "Nyx_Boop"
+	ranks: {
+		2e0e0375-6459-429f-831e-a76b2d414e7d: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Nyx_Boop"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFF5"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
