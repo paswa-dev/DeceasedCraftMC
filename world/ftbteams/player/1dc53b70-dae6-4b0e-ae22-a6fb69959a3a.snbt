@@ -2,9 +2,7 @@
 	id: "1dc53b70-dae6-4b0e-ae22-a6fb69959a3a"
 	type: "player"
 	player_name: "Paswa"
-	ranks: {
-		1dc53b70-dae6-4b0e-ae22-a6fb69959a3a: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Paswa"
 		"ftbteams:description": ""

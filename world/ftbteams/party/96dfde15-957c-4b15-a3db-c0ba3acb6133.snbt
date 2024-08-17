@@ -1,0 +1,22 @@
+{
+	id: "96dfde15-957c-4b15-a3db-c0ba3acb6133"
+	type: "party"
+	owner: "1dc53b70-dae6-4b0e-ae22-a6fb69959a3a"
+	ranks: {
+		2e0e0375-6459-429f-831e-a76b2d414e7d: "member"
+		1dc53b70-dae6-4b0e-ae22-a6fb69959a3a: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "DonaldDaddy"
+		"ftbteams:description": ""
+		"ftbteams:color": "#6BFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1723836941222L, text: "{\"color\":\"yellow\",\"extra\":[{\"text\":\"Paswa\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "1dc53b70-dae6-4b0e-ae22-a6fb69959a3a", date: 1723836941239L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Nyx_Boop\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1723836943388L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"Nyx_Boop\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+	]
+	extra: { }
+}

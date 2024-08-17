@@ -32,6 +32,8 @@
   "farmersdelight:main/master_chef": {
     "criteria": {
       "vegetable_soup": "2024-08-14 23:38:08 -0400",
+      "chicken_soup": "2024-08-16 17:14:01 -0400",
+      "fish_stew": "2024-08-16 17:14:10 -0400",
       "beef_stew": "2024-08-15 17:26:32 -0400",
       "fried_rice": "2024-08-15 17:26:28 -0400"
     },
@@ -91,6 +93,24 @@
     },
     "done": true
   },
+  "create:copper": {
+    "criteria": {
+      "0": "2024-08-16 22:49:38 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:tools/tools_root": {
+    "criteria": {
+      "has_item": "2024-08-16 18:03:34 -0400"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2024-08-16 22:57:03 -0400"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_black_from_white": {
     "criteria": {
       "has_the_recipe": "2024-08-14 22:00:46 -0400"
@@ -100,6 +120,12 @@
   "cold_sweat:root": {
     "criteria": {
       "requirement": "2024-08-14 22:00:47 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:multiblocks/craft_sheetmetal": {
+    "criteria": {
+      "has_item": "2024-08-16 21:21:18 -0400"
     },
     "done": true
   },
@@ -199,9 +225,21 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2024-08-16 15:49:42 -0400"
+    },
+    "done": true
+  },
   "comforts:hammock_light_gray": {
     "criteria": {
       "has_the_recipe": "2024-08-14 22:00:46 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/make_steel": {
+    "criteria": {
+      "has_item": "2024-08-16 15:14:55 -0400"
     },
     "done": true
   },
@@ -217,7 +255,10 @@
       "apple": "2024-08-14 22:34:04 -0400",
       "bread": "2024-08-14 22:31:18 -0400",
       "rotten_flesh": "2024-08-14 22:38:32 -0400",
-      "cooked_chicken": "2024-08-14 22:40:05 -0400"
+      "cookie": "2024-08-16 16:06:25 -0400",
+      "glow_berries": "2024-08-16 22:37:05 -0400",
+      "cooked_chicken": "2024-08-14 22:40:05 -0400",
+      "carrot": "2024-08-16 22:41:18 -0400"
     },
     "done": false
   },
@@ -245,6 +286,12 @@
     },
     "done": true
   },
+  "create:brass": {
+    "criteria": {
+      "0": "2024-08-16 21:26:37 -0400"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "dryland": "2024-08-14 22:00:46 -0400"
@@ -254,6 +301,12 @@
   "comforts:sleeping_bag_green": {
     "criteria": {
       "has_the_recipe": "2024-08-14 22:00:46 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:multiblocks/craft_duroplast": {
+    "criteria": {
+      "has_item": "2024-08-16 17:15:51 -0400"
     },
     "done": true
   },
@@ -371,6 +424,12 @@
     },
     "done": true
   },
+  "nameless_trinkets:obtain/root": {
+    "criteria": {
+      "obtain": "2024-08-16 21:04:37 -0400"
+    },
+    "done": true
+  },
   "comforts:rope_and_nail": {
     "criteria": {
       "has_the_recipe": "2024-08-14 22:00:46 -0400"
@@ -380,6 +439,12 @@
   "comforts:hammock_magenta": {
     "criteria": {
       "has_the_recipe": "2024-08-14 22:00:46 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_treatedwood": {
+    "criteria": {
+      "has_item": "2024-08-16 17:22:29 -0400"
     },
     "done": true
   },
@@ -437,6 +502,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2024-08-16 22:31:01 -0400"
+    },
+    "done": true
+  },
   "comforts:hammock_magenta_from_white": {
     "criteria": {
       "has_the_recipe": "2024-08-14 22:00:46 -0400"
@@ -469,7 +540,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:eroded_badlands": "2024-08-16 17:04:17 -0400",
+      "minecraft:river": "2024-08-16 16:07:48 -0400",
       "minecraft:stony_shore": "2024-08-14 22:01:44 -0400",
+      "minecraft:lush_caves": "2024-08-16 22:36:16 -0400",
       "minecraft:desert": "2024-08-14 22:28:27 -0400",
       "minecraft:warm_ocean": "2024-08-14 22:01:58 -0400"
     },
@@ -487,6 +561,12 @@
     },
     "done": true
   },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2024-08-16 23:00:01 -0400"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-08-14 22:11:35 -0400"
@@ -496,6 +576,12 @@
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2024-08-14 22:00:46 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:multiblocks/multiblocks_root": {
+    "criteria": {
+      "has_item": "2024-08-16 15:14:55 -0400"
     },
     "done": true
   },
@@ -514,6 +600,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-08-14 22:13:31 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_hammer": {
+    "criteria": {
+      "has_item": "2024-08-16 22:59:10 -0400"
     },
     "done": true
   },
@@ -579,6 +671,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2024-08-16 22:31:10 -0400",
       "opened_chest": "2024-08-14 22:02:39 -0400"
     },
     "done": false
@@ -611,13 +704,32 @@
     "criteria": {
       "minecraft:husk": "2024-08-14 22:17:47 -0400",
       "minecraft:zombie": "2024-08-14 22:16:49 -0400",
-      "minecraft:drowned": "2024-08-14 22:03:12 -0400"
+      "minecraft:drowned": "2024-08-14 22:03:12 -0400",
+      "minecraft:zombie_villager": "2024-08-16 15:44:53 -0400"
     },
     "done": false
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "salmon": "2024-08-16 16:31:42 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_workbench": {
+    "criteria": {
+      "has_item": "2024-08-16 18:03:34 -0400"
+    },
+    "done": true
   },
   "pfm:recipes/root": {
     "criteria": {
       "has_planks": "2024-08-14 22:19:55 -0400"
+    },
+    "done": true
+  },
+  "nameless_trinkets:obtain/callus": {
+    "criteria": {
+      "callus": "2024-08-16 21:04:37 -0400"
     },
     "done": true
   },
@@ -642,6 +754,12 @@
   "comforts:hammock_lime_from_white": {
     "criteria": {
       "has_the_recipe": "2024-08-14 22:00:46 -0400"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2024-08-16 17:12:01 -0400"
     },
     "done": true
   },
@@ -757,6 +875,12 @@
   "crossbowverhaul:recipes/combat/bolt_iron": {
     "criteria": {
       "has_ingot": "2024-08-15 00:10:29 -0400"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2024-08-16 22:31:10 -0400"
     },
     "done": true
   },

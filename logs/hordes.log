@@ -123,3 +123,374 @@ Loaded immunity item minecraft:enchanted_golden_apple with duration 120
 Loaded immunity item minecraft:golden_apple with duration 120
 Loading wearables protection list
 Loading wearables protection list hordes:immune_wearables
+[net.smileycorp.hordes.hordeevent.capability.HordeEvent@27e46644]Trying to start horde event on day 15 with nextDay 15 and time 13000
+Applying script hordes:wave_0_script for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@48b955d4
+Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=30,minDay=0,maxDay=0] to hordespawn on day 0
+Adding entry HordeSpawnEntry[type=entity.undead_revamp2.bomber,weight=5,minDay=0,maxDay=0] to hordespawn on day 0
+Adding entry HordeSpawnEntry[type=entity.undead_revamp2.thesmoker,weight=5,minDay=0,maxDay=0] to hordespawn on day 0
+Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=30,minDay=0,maxDay=0] to hordespawn on day 15
+Adding entry HordeSpawnEntry[type=entity.undead_revamp2.bomber,weight=5,minDay=0,maxDay=0] to hordespawn on day 15
+Adding entry HordeSpawnEntry[type=entity.undead_revamp2.thesmoker,weight=5,minDay=0,maxDay=0] to hordespawn on day 15
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@65e5a513
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7fffa5cb
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@799eb191
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1abac812
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@259fdb5b
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@37a8504b
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@2a32176c
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@2b42f0d
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@6fd4e2d9
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@56d5074
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@421f734f
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@31201b29
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@640d9ddb
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@553d91d9
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@437ae6aa
+Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=30,minDay=0,maxDay=0] to hordespawn on day 15
+Adding entry HordeSpawnEntry[type=entity.undead_revamp2.bomber,weight=5,minDay=0,maxDay=0] to hordespawn on day 15
+Adding entry HordeSpawnEntry[type=entity.undead_revamp2.thesmoker,weight=5,minDay=0,maxDay=0] to hordespawn on day 15
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@2aada0e
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@296bc48c
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@13512a4
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3eb04c7b
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@6c855dd5
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@5724d228
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@424e532
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@18f1c923
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@6fc3329a
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@36172a07
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@264bd6ee
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@5d960302
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3b9e2fc9
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7f3cacc2
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@51eeae1f
+Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=30,minDay=0,maxDay=0] to hordespawn on day 15
+Adding entry HordeSpawnEntry[type=entity.undead_revamp2.bomber,weight=5,minDay=0,maxDay=0] to hordespawn on day 15
+Adding entry HordeSpawnEntry[type=entity.undead_revamp2.thesmoker,weight=5,minDay=0,maxDay=0] to hordespawn on day 15
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@e4b1e69
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@5db91a2a
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@42aec923
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@2eb5b29c
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@ec80b45
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@738cdcf4
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@5995a148
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@8c9a5a2
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@96c0b73
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@14dab335
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@2d878322
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@540ce8fb
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@66e34ffd
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1c27ac49
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@2c51a1c5
+Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=30,minDay=0,maxDay=0] to hordespawn on day 15
+Adding entry HordeSpawnEntry[type=entity.undead_revamp2.bomber,weight=5,minDay=0,maxDay=0] to hordespawn on day 15
+Adding entry HordeSpawnEntry[type=entity.undead_revamp2.thesmoker,weight=5,minDay=0,maxDay=0] to hordespawn on day 15
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@764d2f3f
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@5c701619
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@684b2970
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@35ff4a30
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@14d19e82
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@96c8181
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@4605d801
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3866d956
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@6e5ed33a
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@18bffe98
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@369c31fc
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@179bbe74
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@eb09ecb
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@4739f90f
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@4faa6c82
+[net.smileycorp.hordes.hordeevent.capability.HordeEvent@27e46644]Unable to find unlit pos for horde net.smileycorp.hordes.hordeevent.capability.HordeEvent@27e46644 ignoring light level
+Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=30,minDay=0,maxDay=0] to hordespawn on day 15
+Adding entry HordeSpawnEntry[type=entity.undead_revamp2.bomber,weight=5,minDay=0,maxDay=0] to hordespawn on day 15
+Adding entry HordeSpawnEntry[type=entity.undead_revamp2.thesmoker,weight=5,minDay=0,maxDay=0] to hordespawn on day 15
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@19fc7712
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@609d96da
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@6c496075
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@29959f02
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@5719efd5
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@48a33f99
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1e222da4
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@4137ee83
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3af81f7a
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@649161de
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@74ede213
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@2ae3978a
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@9a954f3
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@11dd4629
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@24af0188
+[net.smileycorp.hordes.hordeevent.capability.HordeEvent@83fb841]Trying to start horde event on day 15 with nextDay 15 and time 13000
+Applying script hordes:wave_0_script for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@1feff18c
+Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=30,minDay=0,maxDay=0] to hordespawn on day 0
+Adding entry HordeSpawnEntry[type=entity.undead_revamp2.bomber,weight=5,minDay=0,maxDay=0] to hordespawn on day 0
+Adding entry HordeSpawnEntry[type=entity.undead_revamp2.thesmoker,weight=5,minDay=0,maxDay=0] to hordespawn on day 0
+[net.smileycorp.hordes.hordeevent.capability.HordeEvent@83fb841]Unable to find unlit pos for horde net.smileycorp.hordes.hordeevent.capability.HordeEvent@83fb841 ignoring light level
+Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=30,minDay=0,maxDay=0] to hordespawn on day 15
+Adding entry HordeSpawnEntry[type=entity.undead_revamp2.bomber,weight=5,minDay=0,maxDay=0] to hordespawn on day 15
+Adding entry HordeSpawnEntry[type=entity.undead_revamp2.thesmoker,weight=5,minDay=0,maxDay=0] to hordespawn on day 15
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@49b4c8c8
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@450920a6
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@5aea0598
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@29d3d684
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@4b92d43c
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@11275510
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@2a4d2d5
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@53736f3f
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@6a26683c
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3477da8a
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@346d86f0
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3c241e5e
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@5080fe12
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@c1cd592
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@54029bb2
+Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=30,minDay=0,maxDay=0] to hordespawn on day 15
+Adding entry HordeSpawnEntry[type=entity.undead_revamp2.bomber,weight=5,minDay=0,maxDay=0] to hordespawn on day 15
+Adding entry HordeSpawnEntry[type=entity.undead_revamp2.thesmoker,weight=5,minDay=0,maxDay=0] to hordespawn on day 15
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3979abdd
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@2695c26c
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@56844ad9
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@78fc7977
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@14050afe
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1dabd341
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@5a92a177
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7b5c7b1
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@37f01612
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@8a148f3
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@44e668db
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@5588f7ab
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@4efccf0
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@5f4915a4
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@220704ca
+Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=30,minDay=0,maxDay=0] to hordespawn on day 15
+Adding entry HordeSpawnEntry[type=entity.undead_revamp2.bomber,weight=5,minDay=0,maxDay=0] to hordespawn on day 15
+Adding entry HordeSpawnEntry[type=entity.undead_revamp2.thesmoker,weight=5,minDay=0,maxDay=0] to hordespawn on day 15
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@57afa459
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@63f37e94
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@2877186c
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@5c686216
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3c622114
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@497a81d7
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@746039d6
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7a28d6d3
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@5643b9e9
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@69150e48
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@173331f5
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1bd058cd
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@37a543a3
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@585acac5
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@5a7a4b7a
+Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=30,minDay=0,maxDay=0] to hordespawn on day 15
+Adding entry HordeSpawnEntry[type=entity.undead_revamp2.bomber,weight=5,minDay=0,maxDay=0] to hordespawn on day 15
+Adding entry HordeSpawnEntry[type=entity.undead_revamp2.thesmoker,weight=5,minDay=0,maxDay=0] to hordespawn on day 15
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@444ef884
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@67efed5e
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@73f3c6c
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@35029b91
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@338c7c75
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@67807616
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@4efc01cc
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@471521e
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@315425f
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@163f885e
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@64cd4b6d
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@4dd6b51e
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@4b2409ee
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@26027e4a
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@504e9355
+Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=30,minDay=0,maxDay=0] to hordespawn on day 15
+Adding entry HordeSpawnEntry[type=entity.undead_revamp2.bomber,weight=5,minDay=0,maxDay=0] to hordespawn on day 15
+Adding entry HordeSpawnEntry[type=entity.undead_revamp2.thesmoker,weight=5,minDay=0,maxDay=0] to hordespawn on day 15
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3b249bd8
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@429ce169
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@d9a3b22
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@23b641f0
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3e94da9f
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@ab81856
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@52399e50
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1577888f
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1c7b39e4
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@4ed7ca17
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1f9b6610
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1a60cc75
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@41fd8507
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@195de680
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@25fa153d
+[net.smileycorp.hordes.hordeevent.capability.HordeEvent@27e46644]Trying to start horde event on day 30 with nextDay 30 and time 13000
+Applying script hordes:wave_0_script for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@7ed22523
+Applying script hordes:wave_1_script for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@7ed22523
+Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=25,minDay=0,maxDay=0] to hordespawn on day 15
+Adding entry HordeSpawnEntry[type=entity.undead_revamp2.bomber,weight=5,minDay=0,maxDay=0] to hordespawn on day 15
+Adding entry HordeSpawnEntry[type=entity.undead_revamp2.thesmoker,weight=5,minDay=0,maxDay=0] to hordespawn on day 15
+Adding entry HordeSpawnEntry[type=entity.undead_revamp2.thepregnant,weight=1,minDay=0,maxDay=0] to hordespawn on day 15
+Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=25,minDay=0,maxDay=0] to hordespawn on day 30
+Adding entry HordeSpawnEntry[type=entity.undead_revamp2.bomber,weight=5,minDay=0,maxDay=0] to hordespawn on day 30
+Adding entry HordeSpawnEntry[type=entity.undead_revamp2.thesmoker,weight=5,minDay=0,maxDay=0] to hordespawn on day 30
+Adding entry HordeSpawnEntry[type=entity.undead_revamp2.thepregnant,weight=1,minDay=0,maxDay=0] to hordespawn on day 30
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@13f8ff6a
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@13f8ff6a
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7a385cde
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7a385cde
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@2276eae2
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@2276eae2
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@5f2505fa
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@5f2505fa
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3ce10404
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3ce10404
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@5a256325
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@5a256325
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@4f53e087
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@4f53e087
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@479a40c9
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@479a40c9
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@56b9a70e
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@56b9a70e
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@afce0d4
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@afce0d4
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@4c34a8d5
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@4c34a8d5
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@6014bf7b
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@6014bf7b
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@17dd08cf
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@17dd08cf
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1614b247
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1614b247
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@6d53724b
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@6d53724b
+Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=25,minDay=0,maxDay=0] to hordespawn on day 30
+Adding entry HordeSpawnEntry[type=entity.undead_revamp2.bomber,weight=5,minDay=0,maxDay=0] to hordespawn on day 30
+Adding entry HordeSpawnEntry[type=entity.undead_revamp2.thesmoker,weight=5,minDay=0,maxDay=0] to hordespawn on day 30
+Adding entry HordeSpawnEntry[type=entity.undead_revamp2.thepregnant,weight=1,minDay=0,maxDay=0] to hordespawn on day 30
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7067eda2
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7067eda2
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@365af398
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@365af398
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@49a275ea
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@49a275ea
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@42bdc002
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@42bdc002
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@56cf220e
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@56cf220e
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@6ad7a3fe
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@6ad7a3fe
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1ab60192
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1ab60192
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3fb16fb1
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3fb16fb1
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@15c0795d
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@15c0795d
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@482a0284
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@482a0284
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@6e00e7f1
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@6e00e7f1
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3ee90dac
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3ee90dac
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@6bdf20a
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@6bdf20a
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@744947b1
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@744947b1
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@6b88fa3c
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@6b88fa3c
+[net.smileycorp.hordes.hordeevent.capability.HordeEvent@27e46644]Unable to find unlit pos for horde net.smileycorp.hordes.hordeevent.capability.HordeEvent@27e46644 ignoring light level
+Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=25,minDay=0,maxDay=0] to hordespawn on day 30
+Adding entry HordeSpawnEntry[type=entity.undead_revamp2.bomber,weight=5,minDay=0,maxDay=0] to hordespawn on day 30
+Adding entry HordeSpawnEntry[type=entity.undead_revamp2.thesmoker,weight=5,minDay=0,maxDay=0] to hordespawn on day 30
+Adding entry HordeSpawnEntry[type=entity.undead_revamp2.thepregnant,weight=1,minDay=0,maxDay=0] to hordespawn on day 30
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@6a109c6
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@6a109c6
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@29c0d624
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@29c0d624
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@653b93da
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@653b93da
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7d8afd8a
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7d8afd8a
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@738e1310
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@738e1310
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@6d02d904
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@6d02d904
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@263dffb5
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@263dffb5
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3ffe885b
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3ffe885b
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@80f1229
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@80f1229
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@56e54eb1
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@56e54eb1
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@4cf09c94
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@4cf09c94
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@24681850
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@24681850
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@69b93d3c
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@69b93d3c
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@24ae8643
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@24ae8643
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@49fb57e
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@49fb57e
+[net.smileycorp.hordes.hordeevent.capability.HordeEvent@27e46644]Unable to find unlit pos for horde net.smileycorp.hordes.hordeevent.capability.HordeEvent@27e46644 ignoring light level
+Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=25,minDay=0,maxDay=0] to hordespawn on day 30
+Adding entry HordeSpawnEntry[type=entity.undead_revamp2.bomber,weight=5,minDay=0,maxDay=0] to hordespawn on day 30
+Adding entry HordeSpawnEntry[type=entity.undead_revamp2.thesmoker,weight=5,minDay=0,maxDay=0] to hordespawn on day 30
+Adding entry HordeSpawnEntry[type=entity.undead_revamp2.thepregnant,weight=1,minDay=0,maxDay=0] to hordespawn on day 30
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@65240273
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@65240273
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7a45a967
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7a45a967
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@6a1f06c0
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@6a1f06c0
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@2ea8f399
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@2ea8f399
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@636e296d
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@636e296d
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@ea29bce
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@ea29bce
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@446bba0f
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@446bba0f
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@bb32303
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@bb32303
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@4383278a
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@4383278a
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1a9400fd
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1a9400fd
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@4640baca
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@4640baca
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@2e8c661
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@2e8c661
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@58de7f0b
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@58de7f0b
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1e356957
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1e356957
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@162bd013
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@162bd013
+Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=25,minDay=0,maxDay=0] to hordespawn on day 30
+Adding entry HordeSpawnEntry[type=entity.undead_revamp2.bomber,weight=5,minDay=0,maxDay=0] to hordespawn on day 30
+Adding entry HordeSpawnEntry[type=entity.undead_revamp2.thesmoker,weight=5,minDay=0,maxDay=0] to hordespawn on day 30
+Adding entry HordeSpawnEntry[type=entity.undead_revamp2.thepregnant,weight=1,minDay=0,maxDay=0] to hordespawn on day 30
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@2fcf6ee9
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@2fcf6ee9
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7e9345ce
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7e9345ce
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@271780d9
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@271780d9
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1d01f4f2
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1d01f4f2
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7468c9cb
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7468c9cb
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@70aee2a5
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@70aee2a5
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1610fe7d
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@1610fe7d
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@78dad102
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@78dad102
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3c89e326
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3c89e326
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@6a2d2c93
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@6a2d2c93
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@514d64bd
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@514d64bd
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@32cdee1b
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@32cdee1b
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3fc5834f
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@3fc5834f
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7180708e
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@7180708e
+Applying script hordes:wave_0_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@5feca870
+Applying script hordes:wave_1_loot_script for event net.smileycorp.hordes.common.event.HordeSpawnEntityEvent@5feca870
