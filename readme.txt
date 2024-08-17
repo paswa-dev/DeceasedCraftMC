@@ -2,5 +2,5 @@
 # https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html
 #
 #
-# Run the forge installer 1.18.2-40.2.4 and click Install server, then select this directory to install.
+# Run the forge installer 1.18.2-40.2.4 and click Install server, then select this directory to install. (IF NEEDED)
 # After that, launch the run.bat file or run.sh (linux) should start the server, make sure to agree with eula on the first time.
